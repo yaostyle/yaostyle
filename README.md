@@ -5,6 +5,7 @@
 - 🤔 I’m looking for help with (...?)
 - 💬 Ask me about anything just don't be too personal!
 - 📫 How to reach me: email or buzz me.
+- 🤩 Newly discover: Codespaces + Azure + Github CI/CD = Amazing!
 
 <!--
 **yaostyle/yaostyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
