@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm a software developer specializing in Full-stack and web-based application development.
+- 🔭 I’m currently working on a special project made in Flutter.
+- 🌱 I’m currently learning .NET Core 6 and SwiftUI.
+- 👯 I’m looking to collaborate on anything!
+- 🤔 I’m looking for help with writing a better code.
+- 💬 Ask me about anything just don't too personal!
+- 📫 How to reach me: email or buzz me.
 
 <!--
 **yaostyle/yaostyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
