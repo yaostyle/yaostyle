@@ -2,6 +2,8 @@
 
 I'm a passionate software developer with a keen focus on Full-Stack Web Development and Data Integration. My work revolves around crafting seamless, web-based solutions that are technically robust and thoughtfully tailored to meet diverse business needs. Whether it's building scalable applications or embedding data-driven insights into workflows, I thrive on delivering meaningful digital experiences.
 
+### 🚀 What I'm Up To
+
 🔭 **Exploring Game Development:** Currently diving into Unity to bring lightweight mobile game ideas to life. This journey is helping me combine creativity with technical expertise in a whole new way.
  
 🎯 **Strengthening Fundamentals:** Revisiting and advancing my C++ skills, with a deeper focus on Object-Oriented Programming (OOP) concepts and enhanced memory management techniques.
@@ -17,7 +19,7 @@ I'm a passionate software developer with a keen focus on Full-Stack Web Developm
 
 ### 🌍 How I Contribute
 
-🤔 **Open Source Aspirations:** Actively seeking opportunities to contribute to impactful open-source projects, with a strong interest in Flutter SDK and other community-driven initiatives.
+🤔 **Open Source Aspirations:** Actively seeking opportunities to contribute to impactful open-source projects, with a strong interest in Flutter Framework and other community-driven initiatives.
 
 💡 **Sharing Insights:** Whether it's tech, tools, or creative projects, I enjoy discussing ideas and exchanging knowledge with others.
 
