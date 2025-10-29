@@ -38,7 +38,7 @@ Photoshop • Illustrator • DaVinci Resolve • Lightroom
 ---
 
 ## 🌱 **About Me**
-Linux-first workflow • Mechanical keyboard enthusiast • Portability-focused  
+Linux-first workflow • Mechanical keyboard enthusiast • Cat daddy • Portability-focused  
 Passionate about photography and digital cameras
 
 ---
